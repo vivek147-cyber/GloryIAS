@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-zh(wwtazbhx&%jst!=!q-ybmn9mxrmrd8vrt3&e2raukta#)ax
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS =  ['gloryias.com','www.gloryias.com']
 #ALLOWED_HOSTS = []
 
 
