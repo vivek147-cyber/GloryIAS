@@ -1,0 +1,131 @@
+@media only screen and (max-width: 996px) {
+    .formcard
+    {
+       
+       margin: 0px 0px 23px 0px!important;
+    }
+
+    .h
+    {
+        margin-top: 20px;
+        margin-bottom: -90px!important;
+    }
+
+    hr
+{
+  width: 34%!important;
+}
+
+.wcu
+{
+  
+    font-size: 20px!important;
+}
+  }
+
+  .h
+  {
+      margin-bottom: -118px;
+     
+  }
+
+.formcard
+{
+    margin: 47px;
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    background-color: rgb(217 212 212 / 75%);
+    border: 0px;
+    
+}
+
+
+.h5{
+    font-weight: 500;
+}
+
+.wcu
+{
+    font-weight: 600;
+    font-size: 25px;
+}
+
+
+
+
+.wrapper{
+    display:flex;
+    height: 22vh;
+    flex-direction: row;
+    
+  }
+  
+  
+  
+  .fab {
+  margin: auto;
+  
+  }
+  
+
+  .bg-ico {
+   
+    background-color: #FFF;
+    width: 40px;
+    height: 40px;
+    line-height: 39px;
+    margin: 0 5px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    border-radius: 28%;
+    box-shadow: 0 5px 15px -5px rgba(0,0,0,0.1);
+    opacity: 0.99;
+    -webkit-transition: background-color 2s ease-out;
+    -moz-transition: background-color 2s ease-out;
+    -o-transition: background-color 2s ease-out;
+    transition: background-color 2s ease-out;
+    
+  }
+  .bg-ico:hover{
+       box-shadow: 0 5px 15px -5px rgba(0,0,0,0.8);
+  }
+  
+  #facebook:hover {
+    background-color: #4267B2;
+  }
+  
+  #twitter:hover {
+  background-color: #1DA1F2;
+  
+  }
+  #youtube:hover {
+        background-color: #c4302b;
+  }
+  #pinterest:hover {
+     background-color:#c8232c;
+  }
+  #instagram:hover {
+   background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    background: -webkit-radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    
+  
+  }
+  #tumblr:hover {
+      background-color: #34526f;
+  }
+  #whatsapp:hover {
+         background-color:#25D366;
+  }
+  
+  .facebook:hover, 
+  .twitter:hover, 
+  .youtube:hover, 
+  .pinterest:hover,
+  .instagram:hover, 
+  .tumblr:hover,
+  .whatsapp:hover {
+   color:#fff;
+   transform: scale(1.3);
+  
+  }
