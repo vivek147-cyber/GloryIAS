@@ -122,8 +122,8 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 MEDIA_URL = '/media/'
-STATIC_ROOT ='/home/ueuypobw/public_html/static'
-MEDIA_ROOT ='/home/ueuypobw/public_html/media'
+STATIC_ROOT ='/home/lyjmdtcr/public_html/static'
+MEDIA_ROOT ='/home/lyjmdtcr/public_html/media'
 #STATICFILES_DIRS = [os.path.join(BASE_DIR, 'static')]
 # STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 # MEDIA_ROOT = os.path.join(BASE_DIR, "media")
